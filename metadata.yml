@@ -1,0 +1,12 @@
+---
+:id: 137120611
+:submitters:
+- :name: Angel Moreno
+  :email: agmoren8@asu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-09-29 05:25:33.393878000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-09-28 22:25:33.393878000 Z
+:status: processed
+:score: 72.0
